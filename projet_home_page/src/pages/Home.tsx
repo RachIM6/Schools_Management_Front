@@ -110,15 +110,15 @@ const HeroSection: FC<{ onNavigate: (route: string) => void }> = ({
               <div className="absolute -bottom-6 -right-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg p-4 max-w-[200px]">
                 <div className="flex items-center justify-between mb-2">
                   <span className="text-sm font-medium dark:text-white">
-                    System Usage
+                    User Growth
                   </span>
-                  <span className="text-xs text-green-500 font-medium">
-                    +24%
+                  <span className="text-xs text-blue-500 font-medium">
+                    Rising!
                   </span>
                 </div>
                 <div className="w-full h-2 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
                   <div
-                    className="bg-green-500 h-full rounded-full"
+                    className="bg-blue-500 h-full rounded-full"
                     style={{ width: "72%" }}
                   ></div>
                 </div>

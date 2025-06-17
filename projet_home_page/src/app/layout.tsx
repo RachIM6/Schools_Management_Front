@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="h-full">
       <head>
-        <title>EMSI-School - School Management System</title>
+        <title>Schools Management - School Management System</title>
         <meta
           name="description"
           content="A comprehensive school management system for educational institutions"

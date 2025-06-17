@@ -52,10 +52,10 @@ const AboutPage: FC = () => {
                   <div className="flex flex-col md:flex-row gap-6">
                     <div className="w-full md:w-1/2">
                       <p className="text-gray-600 mb-4">
-                        EMSI-School is a comprehensive school management system
-                        designed to streamline administrative tasks and enhance
-                        communication between students, teachers, departments,
-                        and administration.
+                        Schools Management is a comprehensive school management
+                        system designed to streamline administrative tasks and
+                        enhance communication between students, teachers,
+                        departments, and administration.
                       </p>
                       <p className="text-gray-600 mb-4">
                         Our platform provides a complete suite of tools for

@@ -74,7 +74,7 @@ export const HomeFooter: FC = () => {
               onClick={handleHomeClick}
             >
               <School className="h-8 w-8 text-blue-400" />
-              <span className="ml-2 text-xl font-bold">EMSI-School</span>
+              <span className="ml-2 text-xl font-bold">Schools Management</span>
             </div>
             <p className="text-sm text-gray-400 mb-4">
               Top learning experiences that create more talent in the world.

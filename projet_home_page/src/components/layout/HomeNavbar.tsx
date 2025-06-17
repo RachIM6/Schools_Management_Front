@@ -84,7 +84,7 @@ export const HomeNavbar: FC<HomeNavbarProps> = ({ onNavigate }) => {
           >
             <School className="h-6 w-6 text-blue-600" />
             <span className="ml-2 text-lg font-bold text-gray-800">
-              EMSI-School
+              Schools Management
             </span>
           </div>
         </div>

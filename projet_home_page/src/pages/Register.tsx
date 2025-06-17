@@ -661,7 +661,7 @@ export const Register: FC = () => {
             >
               <School className="h-10 w-10 text-blue-600 dark:text-blue-400" />
               <span className="ml-2 text-2xl font-bold dark:text-white">
-                EMSI-School
+                Schools Management
               </span>
             </div>
             <h2 className="mt-8 text-3xl font-extrabold dark:text-white">
